@@ -126,10 +126,10 @@ const technologies: TTechnology[] = [
 const experiences: TExperience[] = [
   {
     title: "React.js Developer",
-    companyName: "Starbucks",
+    companyName: "NOVA",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "March 2020 - April 2021",
+    date: "2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -138,11 +138,11 @@ const experiences: TExperience[] = [
     ],
   },
   {
-    title: "React Native Developer",
-    companyName: "Tesla",
+    title: "React Developer",
+    companyName: "CodeTech",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    date: "2023",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -152,10 +152,10 @@ const experiences: TExperience[] = [
   },
   {
     title: "Web Developer",
-    companyName: "Shopify",
+    companyName: "Code Academy",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -165,10 +165,10 @@ const experiences: TExperience[] = [
   },
   {
     title: "Full stack Developer",
-    companyName: "Meta",
+    companyName: "Code Master",
     icon: meta,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - Present",
+    date: "2024 ",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
