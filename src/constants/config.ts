@@ -40,13 +40,13 @@ type TConfig = {
 
 export const config: TConfig = {
   html: {
-    title: "John Doe — 3D Portfolio",
-    fullName: "John Doe",
-    email: "johndoe@mail.com",
+    title: "Johson ",
+    fullName: "Johnson Olayemi",
+    email: "ogunyankinjohnson@mail.com",
   },
   hero: {
-    name: "John Doe",
-    p: ["I develop 3D visuals, user", "interfaces and web applications"],
+    name: "Johnson Olayemi",
+    p: ["I'm a FullStack Deveoper", "I Design interfaces and web applications"],
   },
   contact: {
     p: "Get in touch",
@@ -67,11 +67,11 @@ export const config: TConfig = {
     about: {
       p: "Introduction",
       h2: "Overview.",
-      content: `I'm a skilled software developer with experience in TypeScript and
-      JavaScript, and expertise in frameworks like React, Node.js, and
-      Three.js. I'm a quick learner and collaborate closely with clients to
-      create efficient, scalable, and user-friendly solutions that solve
-      real-world problems. Let's work together to bring your ideas to life!`,
+      content: `I am a full-stack developer with a strong foundation in both front-end and back-end technologies, dedicated to creating seamless and efficient web applications. My expertise spans a range of modern web technologies, including JavaScript, HTML, and CSS, complemented by extensive experience in popular frameworks and libraries like React and Redux for dynamic and responsive UIs.
+
+On the front end, I leverage tools such as Tailwind CSS, Chakra UI, and Material UI to design intuitive and visually appealing interfaces. Additionally, I use Three.js for incorporating 3D elements, adding depth and interactivity to user experiences. For back-end development, I rely on Node.js and Express.js to build scalable and efficient server-side applications, supported by MongoDB as a robust and flexible database solution.
+
+With a holistic understanding of the development process and a keen eye for design, I am equipped to take on complex projects, creating functional, engaging, and optimized applications from concept to deployment.`,
     },
     experience: {
       p: "What I have done so far",
